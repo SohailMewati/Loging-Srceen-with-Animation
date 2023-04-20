@@ -13,6 +13,6 @@ class HomeActivity : AppCompatActivity() {
     }
 
     fun getData(){
-        Toast.makeText(this, "Welcome To Home Page of ERP", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Welcome To Home Page of ERP", Toast.LENGTH_LONG).show()
     }
 }
