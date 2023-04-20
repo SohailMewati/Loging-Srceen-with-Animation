@@ -13,6 +13,6 @@ class HomeActivity : AppCompatActivity() {
     }
 
     fun getData(){
-        Toast.makeText(this, "You write new new in kotlin line file", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Welcome To Home Page of ERP", Toast.LENGTH_SHORT).show()
     }
 }
